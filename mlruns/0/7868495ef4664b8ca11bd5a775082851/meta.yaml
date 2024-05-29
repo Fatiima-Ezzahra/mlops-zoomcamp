@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7868495ef4664b8ca11bd5a775082851/artifacts
+end_time: 1717016105632
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7868495ef4664b8ca11bd5a775082851
+run_name: zealous-dog-286
+run_uuid: 7868495ef4664b8ca11bd5a775082851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717016093268
+status: 3
+tags: []
+user_id: codespace
