@@ -12,6 +12,7 @@ pandas = "*"
 seaborn = "*"
 hyperopt = "*"
 xgboost = "*"
+evidently = "*"
 
 [dev-packages]
 
